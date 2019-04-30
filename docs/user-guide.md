@@ -99,4 +99,4 @@ option2 | unicorn
 option3 | unicorn
 option4 | unicorn
 
-![PoliteCat](https://github.com/sarahdobson/piv-conformance/cct-documentation/img/cat.jpg "Logo Title Text 1")
+![PoliteCat](https://github.com/sarahdobson/piv-conformance/blob/cct-documentation/img/cat.jpg "Logo Title Text 1")
