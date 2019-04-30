@@ -80,3 +80,19 @@ The expected SHA256 sum is: 10dd4d0e08f4259d2fe2424f889d1a986fb7018456215f984f43
 ### CCT Options
 
 The following table describes the options available in the top bar of the CCT.
+
+**Option** | **Description**
+--- | ---
+File > Open Database | Opens a file explorer window, where you can select a test database. This is useful if you want to check your card against a different database of compliance tests.
+File > Exit | Closes the CCT application.
+Edit > Cut | unicorn
+Edit > Copy | unicorn
+Edit > Paste | unicorn
+Edit > Override test OIDs | unicorn
+View > Toggle test tree view | Displays or hides the test tree in the left pane.
+View > Display test report | Displays the HTML results for the latest tests. This option is disabled when the CCT is running.
+Help > Show Debugging tools | Displays a real-time log of the currently running tests. The CCT writes this data to the test_progress.txt file in the folder that contains the CCT files.
+option1 | unicorn
+option2 | unicorn
+option3 | unicorn
+option4 | unicorn
