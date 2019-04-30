@@ -59,12 +59,20 @@ The expected SHA256 sum is: 10dd4d0e08f4259d2fe2424f889d1a986fb7018456215f984f43
 #### 3.4 Execute test
 1. Click **Verify PIN and Execute Tests**.
 
-    The CCT runs. You can keep track of the tests that have passed or failed in the *test tree* in the left pane.
+    The CCT begins running the tests specified by the test database. You can keep track of the tests that have passed or failed in the *test tree* in the left pane.
 
 ### 4. View Results
 
 #### 4.1 View HTML results in a browser
-1. In the top bar, click the 
+1. Go to **View**, and then select **Display Test Report**.
+    
+    The results appear in a new tab in your default browser.
 
 #### 4.2 View results in a spreadsheet
-1. 
+1. In your file explorer, navigate to the folder that contains the CCT files.
+
+    Each time you run the CCT, the tool writes the new results to conformance_results.csv, and appends the number 1 to the existing results file. Older results update with higher numbers to reflect the chronological order.
+
+2. Double-click the conformance_results.csv file.
+
+    The results open in your default spreadsheet software, like Microsoft Excel.
