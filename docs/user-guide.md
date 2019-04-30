@@ -99,9 +99,4 @@ option2 | unicorn
 option3 | unicorn
 option4 | unicorn
 
-
-![politecat]({{site.baseurl}}/img/cat.jpg){:style="width:85%;"}
-
-![PoliteCat](https://github.com/sarahdobson/piv-conformance/edit/cct-documentation/img/cat.jpg "Logo Title Text 1")
-
-[politecat]({{site.baseurl}}/img/cat.jpg){:style="width:85%;"}
+![PoliteCat](https://github.com/sarahdobson/piv-conformance/cct-documentation/img/cat.jpg "Logo Title Text 1")
