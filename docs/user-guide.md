@@ -52,14 +52,14 @@ The expected SHA256 sum is: 10dd4d0e08f4259d2fe2424f889d1a986fb7018456215f984f43
 
 #### 3.3 Insert card
 1. Insert the card you want to test in the card reader that you selected in step 3.2.1.
-2. Click **Refresh Readers*.
+2. Click **Refresh Readers**.
 
     The **Reader Status** box displays some identifying information about the card.
 
 #### 3.4 Execute test
 1. Click **Verify PIN and Execute Tests**.
 
-    The CCT begins running the tests specified by the test database. You can keep track of the tests that have passed or failed in the *test tree* in the left pane.
+    The CCT begins running the tests specified by the test database. You can keep track of the 's that have passed or failed in the *test tree* in the left pane.
 
 ### 4. View Results
 
@@ -68,11 +68,15 @@ The expected SHA256 sum is: 10dd4d0e08f4259d2fe2424f889d1a986fb7018456215f984f43
     
     The results appear in a new tab in your default browser.
 
-#### 4.2 View results in a spreadsheet
+#### 4.2 View CSV results in a spreadsheet
 1. In your file explorer, navigate to the folder that contains the CCT files.
 
     Each time you run the CCT, the tool writes the new results to conformance_results.csv, and appends the number 1 to the existing results file. Older results update with higher numbers to reflect the chronological order.
 
 2. Double-click the conformance_results.csv file.
 
-    The results open in your default spreadsheet software, like Microsoft Excel.
+    The results open in your default spreadsheet software (for example, Microsoft Excel).
+
+### CCT Options
+
+The following table describes the options available in the top bar of the CCT.
