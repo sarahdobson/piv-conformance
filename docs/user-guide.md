@@ -1,6 +1,6 @@
-## PIV Card Conformance Tool User Guide
+## Card Conformance Tool User Guide
 
-You can use the PIV Card Conformance Tool (CCT) to verify that your PIV cards conform to the PIV data model per current releases of FIPS 201 and associated publications.
+You can use the Card Conformance Tool (CCT) to verify that your PIV cards conform to the PIV data model per current releases of FIPS 201 and associated publications.
 
 ### PREREQS
 - TODO: Define these.
@@ -98,5 +98,3 @@ option1 | unicorn
 option2 | unicorn
 option3 | unicorn
 option4 | unicorn
-
-![PoliteCat](https://github.com/sarahdobson/piv-conformance/blob/cct-documentation/img/cat.jpg "Logo Title Text 1")
