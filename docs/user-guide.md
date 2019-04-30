@@ -1,9 +1,11 @@
-## Card Conformance Tool User-Guide
+## PIV Card Conformance Tool User Guide
+
+You can use the PIV Card Conformance Tool (CCT) to verify that your PIV cards conform to the PIV data model per current releases of FIPS 201 and associated publications.
 
 ### PREREQS
 - TODO: Define these.
 
-### 1. Obtain a copy of the CCT
+### 1. Obtain a copy of the CCT (unicorn)
 
 #### Download Executable Jar
 
@@ -43,7 +45,7 @@ The expected SHA256 sum is: 10dd4d0e08f4259d2fe2424f889d1a986fb7018456215f984f43
 1. In your file explorer, navigate to the folder that contains the CCT files.
 2. Double-click the 85b-swing-gui-all.jar file.
 
-    The PIV Card Conformance Tool appears.
+    The CCT appears.
 
 #### 3.2 Select a card reader 
 1. In the **Card Reader** drop down list, select a card reader.
@@ -59,7 +61,7 @@ The expected SHA256 sum is: 10dd4d0e08f4259d2fe2424f889d1a986fb7018456215f984f43
 #### 3.4 Execute test
 1. Click **Verify PIN and Execute Tests**.
 
-    The CCT begins running the tests specified by the test database. You can keep track of the 's that have passed or failed in the *test tree* in the left pane.
+    The CCT begins running the tests specified by the test database. You can keep track of the tests that have passed or failed in the *test tree* in the left pane.
 
 ### 4. View Results
 
